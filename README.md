@@ -1,4 +1,4 @@
 # Dissertação
 Dissertation code and text.
 
-Texto da dissertação e código usado para chegar aos resultados.
+Texto da minha dissertação de mestardo e código usado para chegar aos resultados.
